@@ -1,0 +1,6 @@
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\ForConsole2\ForConsole2\bin\Debug\ForConsole2.exe.config
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\ForConsole2\ForConsole2\bin\Debug\ForConsole2.exe
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\ForConsole2\ForConsole2\bin\Debug\ForConsole2.pdb
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\ForConsole2\ForConsole2\obj\Debug\ForConsole2.csprojResolveAssemblyReference.cache
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\ForConsole2\ForConsole2\obj\Debug\ForConsole2.exe
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\ForConsole2\ForConsole2\obj\Debug\ForConsole2.pdb
