@@ -1,0 +1,5 @@
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\ForConsole5\ForConsole5\bin\Debug\ForConsole5.exe.config
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\ForConsole5\ForConsole5\bin\Debug\ForConsole5.exe
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\ForConsole5\ForConsole5\bin\Debug\ForConsole5.pdb
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\ForConsole5\ForConsole5\obj\Debug\ForConsole5.exe
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\ForConsole5\ForConsole5\obj\Debug\ForConsole5.pdb
